@@ -6,9 +6,9 @@ color:
   saturation: 0.4263154901564121
   rhythmicContrast: 0.515192941762507
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
 name: Relational Intelligence
